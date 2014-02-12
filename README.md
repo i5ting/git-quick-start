@@ -25,3 +25,7 @@
 ## tag
 > 可使用git子命令tag来给版本打标签做标记，*git tag xxx*
   ![tag](tag.gif)
+
+
+推荐另外一个还不错的入门资料
+[git guide](http://rogerdudler.github.io/git-guide/index.zh.html)
